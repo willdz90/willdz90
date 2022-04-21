@@ -24,30 +24,12 @@ Git hub: @willdz90
 
 # Education
 
-Full Stack Web Developer
-Henry Academy
-Currently
-
-Junior Developer
-Universidad Pontificia Bolivariana
-Feb 2021 – December 2021
-
-Web Design with Adobe Dreamweaver CS6
-SENA
-September 2012
-
-AutoCAD 3D
-SENA
-September 2012
-
-Initiation and planning of projects
-SENA
-September 2012
-
-Project management: Characteristics, success factors,
-administrative techniques and tools
-SENA
-September 2012
+- **Full Stack Web Developer**, Henry Academy, Currently.
+- **Junior Developer**, Universidad Pontificia Bolivariana, Feb 2021 – December 2021
+- **Web Design with Adobe Dreamweaver CS6**, SENA, September 2012
+- **AutoCAD 3D**, SENA, September 2012
+- **Initiation and planning of projects**, SENA, September 2012
+- **Project management: Characteristics, success factors, administrative techniques and tools**, SENA, September 2012
 
 # JOBS
 Freelancer March 2019 – Currently As a freelancer I give support to another developers, making the HTML and CSS web design of the page or the JS functions for them, in my work as freelancer I make corrections to their code testing all the functionalities of the website before present them to the final client, I verify and control the version of the projects throw Git commands, sometimes I have to create the APIs for the backend connections with the DB, create the DB and test all the website’s connections in local servers before deploy it to the cloud or the final server.
