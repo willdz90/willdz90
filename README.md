@@ -1,4 +1,4 @@
-## Hi, my name is William Diaz Orozco
+## **Hi, my name is William Diaz Orozco**
 ###Full Stack Web Developer
 
 I’m 31 years old, I’m a Web Developer born in Valledupar, Cesar, Colombia, as a Web Dev I have the notions and knowledge to create efficiency and dynamics SPA using ReactJS for the job, I can work with redux as a complement to improve my work and other technologies like Node.JS, express, jest and others important libraries of React and JS also libraries and frameworks of CSS like Bootstrap, Less and others. 
