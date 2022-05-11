@@ -11,16 +11,16 @@ As a person I’m super enthusiasm, always eager to answer the best way possible
 
 # Personal Data
 
-Email: will.diazor@gmail.com
-Cell phone: +57 3004602462
-Address: Street 14B # 19D – 04
-Zip code: 200001
-City: Valledupar
-Country: Colombia
-Linked In: https://www.linkedin.com/in
+- Email: will.diazor@gmail.com
+- Cell phone: +57 3004602462
+- Address: Street 14B # 19D – 04
+- Zip code: 200001
+- City: Valledupar
+- Country: Colombia
+- Linked In: https://www.linkedin.com/in
 /william-diaz-orozco-a2672a204
-Torre: torre.co/willdiazor
-Git hub: @willdz90
+- Torre: torre.co/willdiazor
+- Git hub: @willdz90
 
 # Education
 
