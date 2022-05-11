@@ -35,10 +35,10 @@ As a person I’m super enthusiasm, always eager to answer the best way possible
 Freelancer March 2019 – Currently As a freelancer I give support to another developers, making the HTML and CSS web design of the page or the JS functions for them, in my work as freelancer I make corrections to their code testing all the functionalities of the website before present them to the final client, I verify and control the version of the projects throw Git commands, sometimes I have to create the APIs for the backend connections with the DB, create the DB and test all the website’s connections in local servers before deploy it to the cloud or the final server.
 
 # Languages and IDEs
-ReactJS, React – Redux (Proficient)
-HTML (Expert) Visual Studio Code
-CSS (Expert) Visual Studio Code
-JS (Expert) Visual Studio Code
-SQL (Basic) console and phpMyAdmin
-Node.js (Intermediate) Visual Studio Code
-Express.js (Intermediate) Visual Studio Code
+- ReactJS, React – Redux (Proficient) 1 year
+- HTML (Expert) Visual Studio Code 2.5 years
+- CSS (Expert) Visual Studio Code 2.5 years
+- JS (Expert) Visual Studio Code 2,5 years
+- SQL (Basic) console and phpMyAdmin 1 year
+- Node.js (Intermediate) Visual Studio Code 1 year
+- Express.js (Intermediate) Visual Studio Code 1 year
