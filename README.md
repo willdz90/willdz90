@@ -25,7 +25,7 @@ Git hub: @willdz90
 # Education
 
 - **Full Stack Web Developer**, Henry Academy, Currently.
-- **Junior Developer**, Universidad Pontificia Bolivariana, Feb 2021 – December 2021
+- **Full Stack Web Developer**, Universidad Pontificia Bolivariana, Feb 2021 – December 2021
 - **Web Design with Adobe Dreamweaver CS6**, SENA, September 2012
 - **AutoCAD 3D**, SENA, September 2012
 - **Initiation and planning of projects**, SENA, September 2012
