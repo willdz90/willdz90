@@ -31,6 +31,7 @@ If you want to check some of my portfolio you can visit my repos in github at th
 - Linked In: https://www.linkedin.com/in/william-diaz-orozco-a2672a204
 - Torre: torre.co/willdiazor
 - Git hub: @willdz90
+- Vimeo channel: https://vimeo.com/user175968728
 
 # Education
 
@@ -39,9 +40,6 @@ If you want to check some of my portfolio you can visit my repos in github at th
 - **Web Design**, SENA.
 - **Initiation and planning of projects**, SENA.
 - **Project management**, SENA.
-
-# JOBS
-Freelancer March 2019 – Currently As a freelancer I give support to another developers, making the HTML and CSS web design of the page or the JS functions for them, in my work as freelancer I make corrections to their code testing all the functionalities of the website before present them to the final client, I verify and control the version of the projects throw Git commands, sometimes I have to create the APIs for the backend connections with the DB, create the DB and test all the website’s connections in local servers before deploy it to the cloud or the final server.
 
 # Languages and IDEs
 - ReactJS, React – Redux (Proficient) 1 year
