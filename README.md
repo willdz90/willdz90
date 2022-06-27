@@ -49,3 +49,10 @@ If you want to check some of my portfolio you can visit my repos in github at th
 - SQL (Basic) console and phpMyAdmin 1 year
 - Node.js (Intermediate) Visual Studio Code 1 year
 - Express.js (Intermediate) Visual Studio Code 1 year
+
+# PERSONAL PROJECTS USING APIs 
+
+![Captura de pantalla 2022-06-27 101713](https://user-images.githubusercontent.com/68471860/175977171-383d2b0c-8025-4c61-9396-25edac04b07a.png)
+![Captura de pantalla 2022-06-27 101757](https://user-images.githubusercontent.com/68471860/175977183-1b593e2e-a5e1-482f-8d00-4d0fb8a48672.png)
+![Captura de pantalla 2022-06-27 101816](https://user-images.githubusercontent.com/68471860/175977187-66b15208-c1af-45b7-a6ab-1c6733edc22a.png)
+![Captura de pantalla 2022-06-27 101850](https://user-images.githubusercontent.com/68471860/175977190-531296ec-d1fb-4f33-9216-f3470a79e261.png)
