@@ -51,8 +51,30 @@ If you want to check some of my portfolio you can visit my repos in github at th
 - Express.js (Intermediate) Visual Studio Code 1 year
 
 # PERSONAL PROJECTS USING APIs 
+## A GAME SEARCHER: for this app i connect with the rawg api,developed with the next technologies:
+- "@reduxjs/toolkit": "^1.8.2",
+- "@testing-library/jest-dom": "^5.11.10",
+- "@testing-library/react": "^11.2.6",
+- "@testing-library/user-event": "^13.1.1",
+- "axios": "^0.27.2",
+- "jest": "^28.1.1",
+- "react": "^17.0.2",
+- "react-audio-player": "^0.17.0",
+- "react-dom": "^17.0.2",
+- "react-player": "^2.10.1",
+- "react-redux": "^8.0.2",
+- "react-router": "^6.3.0",
+- "react-router-dom": "^6.3.0",
+- "react-scripts": "^5.0.1",
+- "redux": "^4.2.0",
+- "router": "^1.3.7",
+- "toolkit": "^1.5.4",
+- "web-vitals": "^2.1.4"
 
 ![Captura de pantalla 2022-06-27 101713](https://user-images.githubusercontent.com/68471860/175977171-383d2b0c-8025-4c61-9396-25edac04b07a.png)
+
 ![Captura de pantalla 2022-06-27 101757](https://user-images.githubusercontent.com/68471860/175977183-1b593e2e-a5e1-482f-8d00-4d0fb8a48672.png)
+
 ![Captura de pantalla 2022-06-27 101816](https://user-images.githubusercontent.com/68471860/175977187-66b15208-c1af-45b7-a6ab-1c6733edc22a.png)
+
 ![Captura de pantalla 2022-06-27 101850](https://user-images.githubusercontent.com/68471860/175977190-531296ec-d1fb-4f33-9216-f3470a79e261.png)
