@@ -70,11 +70,11 @@ If you want to check some of my portfolio you can visit my repos in github at th
 - "router": "^1.3.7",
 - "toolkit": "^1.5.4",
 - "web-vitals": "^2.1.4"
-#                                                            LANDING PAGE
+##                                                           LANDING PAGE
 ![Captura de pantalla 2022-06-27 101713](https://user-images.githubusercontent.com/68471860/175977171-383d2b0c-8025-4c61-9396-25edac04b07a.png)
-
+## HOME PAGE
 ![Captura de pantalla 2022-06-27 101757](https://user-images.githubusercontent.com/68471860/175977183-1b593e2e-a5e1-482f-8d00-4d0fb8a48672.png)
-
+## DETAILS OF GAME USING REACT MODAL
 ![Captura de pantalla 2022-06-27 101816](https://user-images.githubusercontent.com/68471860/175977187-66b15208-c1af-45b7-a6ab-1c6733edc22a.png)
-
+## FORM TO REGISTER NEW GAMES
 ![Captura de pantalla 2022-06-27 101850](https://user-images.githubusercontent.com/68471860/175977190-531296ec-d1fb-4f33-9216-f3470a79e261.png)
