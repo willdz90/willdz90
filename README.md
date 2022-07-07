@@ -14,7 +14,7 @@ My travel in tech begins in 2012 when I made a course of Web Design and discover
 -You Don't Know JS
 -Functional Light JS
 
-Although I’m focused on frontend development, I’m in the capacity of make queries to a DB and make request to APIs and manipulate the data if it is necessary, besides, I’m available to handle versions of the SPA throw Git using the CMD, Git Bash or the IDE´s Terminal.
+Although I’m focused on frontend development, I’m in the capacity of make queries to a DB and make request to APIs and manipulate the data if it is necessary, besides, I’m available to handle versions of the SPA through Git using the CMD, Git Bash or the IDE´s Terminal.
 
 As a person I’m super enthusiastic, always eager to answer the best way possible, and most importantly honest when an answer is unknown, but continue to work on the question even when we have moved on.
  
