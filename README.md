@@ -28,7 +28,7 @@ If you want to check some of my portfolio you can visit my repos in github at th
 - Zip code: 200001
 - City: Valledupar
 - Country: Colombia
-- Linked In: https://www.linkedin.com/in/william-diaz-orozco-a2672a204
+- Linked In: https://www.linkedin.com/in/willdz/
 - Torre: torre.co/willdiazor
 - Git hub: @willdz90
 - Vimeo channel: https://vimeo.com/user175968728
