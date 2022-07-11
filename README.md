@@ -50,6 +50,7 @@ If you want to check some of my portfolio you can visit my repos in github at th
 - Express.js (Intermediate) Visual Studio Code 1 year
 
 # PERSONAL PROJECTS USING APIs 
+Link: https://apigameroom.vercel.app/
 ## A GAME SEARCHER: for this app i connect with the rawg api,developed with the next technologies:
 - "@reduxjs/toolkit": "^1.8.2",
 - "@testing-library/jest-dom": "^5.11.10",
