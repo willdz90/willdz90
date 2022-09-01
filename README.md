@@ -34,7 +34,7 @@ If you want to check some of my portfolio you can visit my repos in github at th
 
 # Education
 
-- **Full Stack Web Developer**, Henry Academy, Currently.
+- **Full Stack Web Developer**, Henry Academy.
 - **Full Stack Web Developer**, Universidad Pontificia Bolivariana
 - **Web Design**, SENA.
 - **Initiation and planning of projects**, SENA.
