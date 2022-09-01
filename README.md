@@ -7,7 +7,7 @@ As a Web Dev my passion is to create efficiency and dynamics SPA using ReactJS f
 
 In march 2022 I became a student of Henry Academy to get certified my skills as a Full Stack Web Developer and the 2021 I got the certification for the same rol by the the Bolivarian Pontifical University in agreement with the Ministry of Telecommunications of the Colombian goverment.
 
-My travel in tech begins in 2012 when I made a course of Web Design and discovere my skills to create amazing websites, since then I have been improving my skills follow important authors like Kyle Simpson, Tyler McGinnis, Samer Buna and Eric Elliot and reading literature as well:
+My travel in tech begins in 2012 when I made a course of Web Design and discovered my skills to create amazing websites, since then I have been improving my skills follow important authors like Kyle Simpson, Tyler McGinnis, Samer Buna and Eric Elliot and reading literature as well:
 
 -Eloquent Javascript
 -Javascript Design Patterns
