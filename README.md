@@ -1,18 +1,18 @@
 # **Hi :wave:, my name is William Diaz Orozco**
 ## Full Stack Web Developer
 
-I’m a Fullstack Developer with 7 years of experience in the financial sector and 5 years in the development of web applications based on the MERN stack, also I can handle differents languages as they are Java, Python and C++, and if we talk about frameworks and libraries for those languages I can mention JQuery, ReactJS, Redux, express.js, react-query, bootstrap, Jest, Sequelize, mongoose and others.
+I’m a Fullstack Developer with 7 years of experience in the financial sector and 5 years in the development of web applications based on the MERN stack, also I can handle different languages as they are Java, Python and C++, and if we talk about frameworks and libraries for those languages, I can mention jQuery, ReactJS, Redux, express.js, react-query, bootstrap, Jest, Sequelize, mongoose and others.
 
-I have worked with DBMS as oracle database, mySQL to handled the Databases of differents projects as a result of this I have the knowledge to make CRUD operations, querys and refresh from the production environment to the Quality Assurance or testing environments to keep a secure backup of the information from the clients and test new functionalities. 
+I have worked with DBMS as oracle database, MySQL to handled the Databases of different projects because of this I have the knowledge to make CRUD operations, queries and refresh from the production environment to the Quality Assurance or testing environments to keep a secure backup of the information from the clients and test new functionalities.
 
-In software architecture I can mention some skills like the ability to Identify software solutions, be team player and establish a culture of continuous improvement. offer support to the different parties involved and record all stages of software development, verify the project code and perform possible error correction tasks and work with appropriate tools, technologies and metodologies as SCRUM to improve systems and processes.
+In software architecture I can mention some skills like the ability to Identify software solutions, be team player and establish a culture of continuous improvement. offer support to the different parties involved and record all stages of software development, verify the project code and perform possible error correction tasks and work with appropriate tools, technologies and methodologies as SCRUM to improve systems and processes.
 
 I have been improving my skills to follow important authors like Kyle Simpson, Tyler McGinnis, Samer Buna and Eric Elliot and reading literature as well:
 
-- Eloquent Javascript
-- Javascript Design Patterns
-- You Don't Know JS
-- Functional Light JS
+Eloquent JavaScript
+JavaScript Design Patterns
+You Don't Know JS
+Functional Light JS
 
 As a person I’m super enthusiastic, always eager to answer the best way possible, and most importantly honest when an answer is unknown, but I continue working on the question even when we have moved on.
  
